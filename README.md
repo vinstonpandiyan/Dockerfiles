@@ -73,18 +73,12 @@ docker run -ti -p 8020:8020 -p 8032:8032 -p 8088:8088 -p 9000:9000 -p 10020:1002
 - H2O by 0xdata
 - Hadoop (HDFS + Yarn)
 - HBase (opens HBase shell)
-- Jython
 - Kafka
-- Mesos
-- Nifi
 - RabbitMQ Cluster (supports all same env vars as RabbitMQ official base, plus ones for enabling plugins)
-- Riak
-- Riak (bundled with [nagios-plugins](https://github.com/vinstonpandiyan/nagios-plugins))
 - Serf
 - Solr
 - SolrCloud
 - Spark (opens Spark shell)
-- Tachyon
 - ZooKeeper (opens ZK shell)
 
 Repos suffixed with ```-dev``` are the official technologies + development & debugging tools + my github repos with all dependencies pre-built.
