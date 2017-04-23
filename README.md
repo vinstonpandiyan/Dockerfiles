@@ -1,7 +1,7 @@
 Vinston Pandiyan Docker
 =======================
 [![Build Status](https://travis-ci.org/vinstonpandiyan/Dockerfiles.svg?branch=master)](https://travis-ci.org/vinstonpandiyan/Dockerfiles) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7fdeee4de15a421ab55eab1248bd6af6)](https://www.codacy.com/app/vinstonpandiyan/Dockerfiles?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vinstonpandiyan/Dockerfiles&amp;utm_campaign=Badge_Grade)
-[![DockerHub](https://img.shields.io/badge/docker-available-blue.svg)](https://hub.docker.com/u/vinstonpandiyan/)
+[![DockerHub](https://img.shields.io/badge/docker-available-blue.svg)](https://hub.docker.com/u/vinston/)
 
 Docker Images containing hundreds of my published tools and the supporting technologies to run full functional test suites.
 
@@ -10,7 +10,7 @@ Docker Images containing hundreds of my published tools and the supporting techn
 * Hadoop, Big Data, NoSQL & OS images
 * [My GitHub repos](https://github.com/vinstonpandiyan) containing hundreds of tools related to these technologies with all dependencies pre-built
 
-These images are all available pre-built on [My DockerHub](https://hub.docker.com/u/vinstonpandiyan/).
+These images are all available pre-built on [My DockerHub](https://hub.docker.com/u/vinston/).
 
 Vinston Pandiyan
 
