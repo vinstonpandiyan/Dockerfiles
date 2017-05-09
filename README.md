@@ -33,7 +33,7 @@ docker run vinstonpandiyan/pytools dockerhub_search.py vinstonpandiyan
 
 There are lots of tagged versions of official software in my repos to allow development testing across multiple versions, usually more versions than available from the official repos (and new version updates available on request, just [raise a GitHub issue](https://github.com/vinstonpandiyan/Dockerfiles/issues)).
 
-DockerHub tags are not shown by ```docker search``` ([docker issue 17238](https://github.com/docker/docker/issues/17238)) so I wrote ```dockerhub_show_tags.py``` available in my [PyTools github repo](https://github.com/vinstonpandiyan/pytools) and as a pre-built docker image - eg. to see an organized list of all tags for the official CentOS & Ubuntu repos dynamically using the DockerHub API:
+DockerHub tags are not shown by ```docker search``` so I wrote ```dockerhub_show_tags.py``` available in my [PyTools github repo](https://github.com/vinstonpandiyan/pytools) and as a pre-built docker image - eg. to see an organized list of all tags for the official CentOS & Ubuntu repos dynamically using the DockerHub API:
 
 ```
 docker run vinstonpandiyan/pytools dockerhub_show_tags.py centos ubuntu
